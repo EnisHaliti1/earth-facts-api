@@ -1,0 +1,6 @@
+{
+  "facts": [
+    { "id": 1, "title": "Oceans cover ~71% of Earth", "text": "The Pacific is the largest and deepest." },
+    { "id": 2, "title": "Seven continents", "text": "Africa, Antarctica, Asia, Australia, Europe, North America, South America." }
+  ]
+}
