@@ -2,31 +2,15 @@
   "facts": [
     {
       "id": 1,
-      "planet": "Earth",
       "title": "Oceans cover ~71% of Earth",
       "text": "The Pacific is the largest and deepest.",
       "type": "ocean"
     },
     {
       "id": 2,
-      "planet": "Earth",
       "title": "Seven continents",
       "text": "Africa, Antarctica, Asia, Australia, Europe, North America, South America.",
       "type": "continent"
-    },
-    {
-      "id": 101,
-      "planet": "Mars",
-      "title": "Thin atmosphere",
-      "text": "Mostly CO₂ with traces of nitrogen and argon.",
-      "type": "fun"
-    },
-    {
-      "id": 201,
-      "planet": "Jupiter",
-      "title": "Great Red Spot",
-      "text": "A massive storm larger than Earth.",
-      "type": "fun"
     }
   ]
 }
